@@ -1,6 +1,6 @@
 {
     "token": "MTA4MzIxNjU5NDUyOTk1NTg1MA.GL1NK-.qINcIL7qbxZZT2ePSYD4BAEqypB3GWGNFiZwPI",
-    "mongodb": "mongodb+srv://Parzival2022:parzival2020@v14toturial.to9mvlz.mongodb.net/?retryWrites=true&w=majority",
+    "mongodb": "mongodb+srv://Parzival2022:<password>@v14toturial.to9mvlz.mongodb.net/?retryWrites=true&w=majority",
 
         "servers": [
             "1058712013402017853",
