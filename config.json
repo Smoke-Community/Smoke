@@ -1,0 +1,16 @@
+{
+    "token": "MTA4MzIxNjU5NDUyOTk1NTg1MA.GL1NK-.qINcIL7qbxZZT2ePSYD4BAEqypB3GWGNFiZwPI",
+    "mongodb": "mongodb+srv://Parzival2022:parzival2020@v14toturial.to9mvlz.mongodb.net/?retryWrites=true&w=majority",
+
+        "servers": [
+            "1058712013402017853",
+            ""
+        ],
+
+        "roleName": "RGB",
+        "colors": 12,
+        "speed": 60000,
+        "logging": true,
+        "voiceCN": "1083553731167133786"
+    
+}   
